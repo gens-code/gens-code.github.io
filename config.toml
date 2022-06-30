@@ -56,8 +56,8 @@ googleAnalytics = ""
   url = "contact/"
 
   [[params.navlinks]] 
-  name = "posts"
-  url = "post/"
+  name = "Posts"
+  url = "posts/"
 
   [params.social]
   email         = "ankogenta@iclud.com"
