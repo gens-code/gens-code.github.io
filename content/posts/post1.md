@@ -1,7 +1,7 @@
 ---
 title: "私の犬について"
 date: 2022-06-29T22:07:10-07:00
-draft: true
+draft: false
 ---
 #種類
 
